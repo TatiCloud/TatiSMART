@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TatiSMART
+- 👋 Hi, I’m @TatiSMART.
 - 👀 I’m interested in Machine Learning and IoT.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python project in Fitness and Health field
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python project in Fitness and Health field.
 - 📫 
 
 <!---
